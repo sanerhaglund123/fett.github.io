@@ -132,7 +132,7 @@ margin-right: auto;
 .zombieKillah {
     color: lightblue;
     width: 600px;
-    height: 600px;
+    height: 400px;
     background-color: black;
     padding: 0px;
     margin: 70px;
@@ -162,4 +162,12 @@ margin-right: auto;
 margin: 0 auto;
 margin-left: auto;
 margin-right: auto;
+}
+
+/*HTML setup dokument*/
+.setupDoc {
+    width: 1080px;
+    height: 600px;
+    margin: 0px;
+    margin-left: 70px;
 }
